@@ -3,6 +3,9 @@
 An end-to-end **ETL pipeline** built using **Apache Airflow**, **PostgreSQL**, and **Docker**.  
 The pipeline fetches live weather data from the Weatherstack API, cleans and validates it, and stores it in a PostgreSQL database for further analytics.
 
+### 📊 ETL Pipeline Diagram
+
+![ETL Pipeline](assets/etl_pipeline.png)
 ---
 
 ## 🚀 Features
